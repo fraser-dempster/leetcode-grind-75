@@ -1,0 +1,5 @@
+- iterate through examples and find patterns
+- clarify the constraints
+- explain approach and expected complexity, then ask the interviwer if I can code the solution
+- code it down with comments
+- dry runs and verify the complexity
